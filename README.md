@@ -1,7 +1,7 @@
 ## Data Structures in JS
 
 ###### Febuary 9th, 2017
-## Hash Table
+### Hash Table
 - A table with a predetermined length, used to store data in each cell or "bucket"
 - A key gets hashed with a hashing function and inserted based on the result.
 - Modulo operator *%* is useful for handling large numbers to get them into an acceptable range.
